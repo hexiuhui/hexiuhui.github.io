@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>若雪兮的个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-07T08:37:14.537Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test17907</title>
+    <link href="http://yoursite.com/2017/09/07/test17907/"/>
+    <id>http://yoursite.com/2017/09/07/test17907/</id>
+    <published>2017-09-07T08:37:14.000Z</published>
+    <updated>2017-09-07T08:37:14.537Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一步一步教你在阿里云服务器上用Tomcat发布你的HTML网站</title>
+    <link href="http://yoursite.com/2017/09/07/hello-world/"/>
+    <id>http://yoursite.com/2017/09/07/hello-world/</id>
+    <published>2017-09-07T03:17:45.000Z</published>
+    <updated>2017-09-07T09:17:26.709Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>人生如寄，似水流年<br>如河驶流，往而不返<br>最惧无常，独遭斯疾</p></blockquote><a id="more"></a><h2 id="安装JDK和Tomcat"><a href="#安装JDK和Tomcat" class="headerlink" title="安装JDK和Tomcat"></a>安装JDK和Tomcat</h2><p>1 安装JDK：直接运行jdk-7-windows-i586.exe可执行程序，默认安装即可。</p><p>备注：路径可以其他盘符，不建议路径包含中文名及特殊符号。</p><p>2 安装Tomcat：直接解压缩下载文件“apache-tomcat-7.0.33-windows-x86.zip”到C盘下。安装路径建议修改为：c:\tomcat。</p><p>备注：如下载的是可执行文件，双击运行，默认安装即可。</p><h2 id="配置JDK环境变量（在步骤查看如何配置环境变量）"><a href="#配置JDK环境变量（在步骤查看如何配置环境变量）" class="headerlink" title="配置JDK环境变量（在步骤查看如何配置环境变量）"></a>配置JDK环境变量（在步骤查看如何配置环境变量）</h2><p>1，新建变量名：JAVA_HOME，变量值：C:\Program Files\Java\jdk1.7.0（你的jdk目录）<br>2，打开PATH，添加变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin</p><p>3，新建变量名：CLASSPATH，变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar</p><p>备注：</p><p>1，.表示当前路径，%JAVA_HOME%就是引用前面指定的JAVA_HOME；</p><p>2，JAVA_HOME指明JDK安装路径，此路径下包括lib，bin，jre等文件夹，tomcat，eclipse等的运行都需要依靠此变量。</p><p>3，PATH使得系统可以在任何路径下识别java命令。</p><p>4，CLASSPATH为java加载类(class or lib)路径，只有类在classpath中，java命令才能识别。</p><h2 id="测试JDK"><a href="#测试JDK" class="headerlink" title="测试JDK"></a>测试JDK</h2><p>在CMD命令下输入javac</p><h2 id="配置Tomcat环境变量"><a href="#配置Tomcat环境变量" class="headerlink" title="配置Tomcat环境变量"></a>配置Tomcat环境变量</h2><p>1，新建变量名：CATALINA_BASE，变量值：C:\tomcat</p><p>2，新建变量名：CATALINA_HOME，变量值：C:\tomcat</p><p>3，打开PATH，添加变量值：%CATALINA_HOME%\lib;%CATALINA_HOME%\bin</p><h2 id="启动Tomcat服务"><a href="#启动Tomcat服务" class="headerlink" title="启动Tomcat服务"></a>启动Tomcat服务</h2><p>方法两种：</p><p>1，方法一：在CMD命令下输入命令：startup，出现如下对话框，表明服务启动成功。</p><h2 id="测试Tomcat"><a href="#测试Tomcat" class="headerlink" title="测试Tomcat"></a>测试Tomcat</h2><p>打开浏览器，在地址栏中输入<a href="http://localhost:8080回车，如果看到Tomcat自带的一个JSP页面，说明你的JDK和Tomcat已搭建成功。" target="_blank" rel="external">http://localhost:8080回车，如果看到Tomcat自带的一个JSP页面，说明你的JDK和Tomcat已搭建成功。</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;人生如寄，似水流年&lt;br&gt;如河驶流，往而不返&lt;br&gt;最惧无常，独遭斯疾&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="建站" scheme="http://yoursite.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+</feed>
