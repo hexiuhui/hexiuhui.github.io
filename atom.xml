@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-07T08:37:14.537Z</updated>
+  <updated>2017-09-19T04:01:51.967Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test17907</title>
-    <link href="http://yoursite.com/2017/09/07/test17907/"/>
-    <id>http://yoursite.com/2017/09/07/test17907/</id>
-    <published>2017-09-07T08:37:14.000Z</published>
-    <updated>2017-09-07T08:37:14.537Z</updated>
+    <title>用PPT将图片变成透明png，可以用做网页ICON</title>
+    <link href="http://yoursite.com/2017/09/19/pptMakePng/"/>
+    <id>http://yoursite.com/2017/09/19/pptMakePng/</id>
+    <published>2017-09-19T09:59:40.000Z</published>
+    <updated>2017-09-19T04:01:51.967Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>做好自己，这件事就已经很难了</p></blockquote><a id="more"></a><h3 id="其中因果"><a href="#其中因果" class="headerlink" title="其中因果"></a>其中因果</h3><p>自己的这个博客就是一个例子，一个透明的”雪”字，其他网页也有各式各样的icon图标。<br>起初是看到别人的好漂亮，既然是自己的博客，当然要“与众不同”，额，于是就各种查。<br>由于公司电脑装软件（ps之类）需要权限什么的，所以懒得申请权限了。百度了一番，试<br>过很多种方法，比如在线生成、网页下载。</p><p>其中在线生成的图片，试了2个网站的都不行，显示是png，但是并不透明。<br>在者网页下载的其实要想“与众不同”，这些别人也下载啊，而且种类很少，<br>于是无意中搜到一个用PPT制作的方法，亲测有用，分享给大家~</p><h2 id="动手实践"><a href="#动手实践" class="headerlink" title="动手实践"></a>动手实践</h2><p>首先，选好自己的图片，我的很简单，就是一个“雪”字，新建PPT，然后双击，就可以打字了。<br>（这个选择图片的步骤，你插入图片也一样的）所以我打了个雪,然后你自己修改字体样式咯，比如font-family、font-size之类的，我用的楷书，接下来截图，像这样<img src="http://ovnev1k2d.bkt.clouddn.com/xue.png" alt=""></p><p>为了让大家看清楚，我又加了‘雪’，这样看得出他不是透明的<img src="http://ovnev1k2d.bkt.clouddn.com/xue1.png" alt=""></p><p>然后，选中图片</p><p>重点来了，版本不一样操作也不一样<br>1.我的是wps2007,点击设置透明色，鼠标出现透明笔后，往你的图片上，你想让他透明的部分处<br>点一下即可</p><p><img src="http://ovnev1k2d.bkt.clouddn.com/xue2.png" alt=""></p><p>2.如果是OFFICE2010，选中图片后，[格式]菜单中，选择[颜色]，在下拉菜单的最下方（倒数第二个选项），选择[设置透明色]。然后鼠标出现透明笔后，往你的图片上，你想让他透明的部分处点一下即可。</p><p>3.其他版本也是一样的，选中图片后，若没有上述所说的命令，那就看看”修改颜色”，<br>类似修改的看看，肯定有”透明”这个选项的，恩，差不多就是这样~</p>]]></content>
     
     <summary type="html">
     
+      &lt;blockquote&gt;
+&lt;p&gt;做好自己，这件事就已经很难了&lt;/p&gt;
+&lt;/blockquote&gt;
+    
     </summary>
     
+    
+      <category term="get新技能" scheme="http://yoursite.com/tags/get%E6%96%B0%E6%8A%80%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杭州-乌镇4日游？———奈何在火车上已经游了2日</title>
+    <link href="http://yoursite.com/2017/09/17/suibi01/"/>
+    <id>http://yoursite.com/2017/09/17/suibi01/</id>
+    <published>2017-09-17T03:17:45.000Z</published>
+    <updated>2017-09-19T04:27:20.683Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>毕竟西湖六月中，风光不与四时同</p></blockquote><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;毕竟西湖六月中，风光不与四时同&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -35,14 +67,38 @@
     <link href="http://yoursite.com/2017/09/07/tomcat/"/>
     <id>http://yoursite.com/2017/09/07/tomcat/</id>
     <published>2017-09-07T03:17:45.000Z</published>
-    <updated>2017-09-07T15:32:51.125Z</updated>
+    <updated>2017-09-09T03:34:50.347Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>人生如寄，似水流年<br>如河驶流，往而不返<br>最惧无常，独遭斯疾</p></blockquote><a id="more"></a><h2 id="安装JDK和Tomcat"><a href="#安装JDK和Tomcat" class="headerlink" title="安装JDK和Tomcat"></a>安装JDK和Tomcat</h2><p>1 安装JDK：直接运行jdk-7-windows-i586.exe可执行程序，默认安装即可。</p><p>备注：路径可以其他盘符，不建议路径包含中文名及特殊符号。</p><p>2 安装Tomcat：直接解压缩下载文件“apache-tomcat-7.0.33-windows-x86.zip”到C盘下。安装路径建议修改为：c:\tomcat。</p><p>备注：如下载的是可执行文件，双击运行，默认安装即可。</p><h2 id="配置JDK环境变量（在步骤查看如何配置环境变量）"><a href="#配置JDK环境变量（在步骤查看如何配置环境变量）" class="headerlink" title="配置JDK环境变量（在步骤查看如何配置环境变量）"></a>配置JDK环境变量（在步骤查看如何配置环境变量）</h2><p>1，新建变量名：JAVA_HOME，变量值：C:\Program Files\Java\jdk1.7.0（你的jdk目录）<br>2，打开PATH，添加变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin</p><p>3，新建变量名：CLASSPATH，变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar</p><p>备注：</p><p>1，.表示当前路径，%JAVA_HOME%就是引用前面指定的JAVA_HOME；</p><p>2，JAVA_HOME指明JDK安装路径，此路径下包括lib，bin，jre等文件夹，tomcat，eclipse等的运行都需要依靠此变量。</p><p>3，PATH使得系统可以在任何路径下识别java命令。</p><p>4，CLASSPATH为java加载类(class or lib)路径，只有类在classpath中，java命令才能识别。</p><h2 id="测试JDK"><a href="#测试JDK" class="headerlink" title="测试JDK"></a>测试JDK</h2><p>在CMD命令下输入javac</p><h2 id="配置Tomcat环境变量"><a href="#配置Tomcat环境变量" class="headerlink" title="配置Tomcat环境变量"></a>配置Tomcat环境变量</h2><p>1，新建变量名：CATALINA_BASE，变量值：C:\tomcat</p><p>2，新建变量名：CATALINA_HOME，变量值：C:\tomcat</p><p>3，打开PATH，添加变量值：%CATALINA_HOME%\lib;%CATALINA_HOME%\bin</p><h2 id="启动Tomcat服务"><a href="#启动Tomcat服务" class="headerlink" title="启动Tomcat服务"></a>启动Tomcat服务</h2><p>方法两种：</p><p>1，方法一：在CMD命令下输入命令：startup，出现如下对话框，表明服务启动成功。</p><h2 id="测试Tomcat"><a href="#测试Tomcat" class="headerlink" title="测试Tomcat"></a>测试Tomcat</h2><p>打开浏览器，在地址栏中输入<a href="http://localhost:8080回车，如果看到Tomcat自带的一个JSP页面，说明你的JDK和Tomcat已搭建成功。" target="_blank" rel="external">http://localhost:8080回车，如果看到Tomcat自带的一个JSP页面，说明你的JDK和Tomcat已搭建成功。</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>血染江山的画，怎敌你眉间一点朱砂</p></blockquote><a id="more"></a><p>首先远程连接你的阿里云服务器(我的是云服务器ECS)</p><h2 id="安装JDK和Tomcat"><a href="#安装JDK和Tomcat" class="headerlink" title="安装JDK和Tomcat"></a>安装JDK和Tomcat</h2><p>（下面的安装包或者压缩包你可以在本地下载好，然后复制粘贴到云服务器）<br>1 安装JDK：直接运行jdk的.exe可执行程序，安装即可。</p><p>2 安装Tomcat：直接解压缩下载文件“tomcat**.zip”到C盘下。安装路径建议修改为：c:\tomcat。</p><p>备注：以上两者，下载压缩包解压也行、可执行文件也可。</p><h2 id="配置JDK环境变量"><a href="#配置JDK环境变量" class="headerlink" title="配置JDK环境变量"></a>配置JDK环境变量</h2><p>打开你的磁盘，也可以按快捷键，<code>Windows+E</code>，目前应该只有一个c盘，右键<code>这台电脑</code><br>选择<code>属性-高级系统设置-环境变量</code>，接下来配置系统变量<br>1，新建变量名：JAVA_HOME，变量值：C:\Program Files\Java\jdk1.7.0（你的jdk目录）<br>2，打开PATH，添加变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin</p><p>3，新建变量名：CLASSPATH，变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar</p><p>备注：</p><p>1，.表示当前路径，%JAVA_HOME%就是引用前面指定的JAVA_HOME；</p><p>2，JAVA_HOME指明JDK安装路径，此路径下包括lib，bin，jre等文件夹，tomcat，eclipse等的运行都需要依靠此变量。</p><p>3，PATH使得系统可以在任何路径下识别java命令。</p><p>4，CLASSPATH为java加载类(class or lib)路径，只有类在classpath中，java命令才能识别。</p><h2 id="测试JDK"><a href="#测试JDK" class="headerlink" title="测试JDK"></a>测试JDK</h2><p>在CMD命令下输入javac,输出如下就说明装好了<br><img src="http://ovnev1k2d.bkt.clouddn.com/javac.png" alt=""></p><h2 id="配置Tomcat环境变量"><a href="#配置Tomcat环境变量" class="headerlink" title="配置Tomcat环境变量"></a>配置Tomcat环境变量</h2><p>1，新建变量名：CATALINA_BASE，变量值：C:\tomcat</p><p>2，新建变量名：CATALINA_HOME，变量值：C:\tomcat</p><p>3，打开PATH，添加变量值：%CATALINA_HOME%\lib;%CATALINA_HOME%\bin</p><h2 id="启动Tomcat服务"><a href="#启动Tomcat服务" class="headerlink" title="启动Tomcat服务"></a>启动Tomcat服务</h2><p>方法两种：</p><ol><li>方法一：在CMD命令下输入命令：startup，出现如下对话框，表明服务启动成功。<br><img src="http://ovnev1k2d.bkt.clouddn.com/java1.png" alt=""></li><li>方法二：双击tomcat\bin目录下的startup文件即可，成功与否同上图</li></ol><h2 id="测试Tomcat在本地是否搭建好"><a href="#测试Tomcat在本地是否搭建好" class="headerlink" title="测试Tomcat在本地是否搭建好"></a>测试Tomcat在本地是否搭建好</h2><p>打开浏览器，在地址栏中输入<code>http://localhost:8080</code>回车，如果看到Tomcat自带的一个JSP页面，说明你的JDK和Tomcat已搭建成功。<br><img src="http://ovnev1k2d.bkt.clouddn.com/lc4000.png" alt=""></p><p>因为浏览网页服务默认的端口号都是80，因此只需输入网址即可，不用输入“:80”，但是现在是8080，<br>所以我们修改一下网页的默认端口，打开<code>C:\tomcat\conf</code>文件夹下的<code>server.xml</code>，可以用记事本打开修改，也可以复制到本地电脑修改了在粘贴回服务器，<code>ctrl+f</code>查找8080，注意看<code>&lt;!--         --&gt;</code>的部分是被注释的，忽略就好，然后修改成80就可以了，就改这一个地方<br><img src="http://ovnev1k2d.bkt.clouddn.com/8080.png" alt=""></p><p>改完之后，重启一下tomcat，关闭可以直接在Tomcat执行窗口<code>ctrl+c</code>，也可以双击bin目录下的shutdown，然后在cmd,再次启动即可</p><p>然后你可以在你电脑输入你服务器的公网ip，如果可以访问，效果是和localhost:4000一样的。</p><h2 id="外网访问你的HTML"><a href="#外网访问你的HTML" class="headerlink" title="外网访问你的HTML"></a>外网访问你的HTML</h2><p>打开你的<code>C:\tomcat\webapps</code>,外网访问的文件都在这里了。<br>首先看到ROOT，这就是默认显示页面的源文件所在地，进入ROOT文件夹，里面这些东西（我是全部删除了）<br>，然后把你的index.html，放进来。回到你本地电脑，查看你的公网IP，是不是显示出了index.html？<br>如果你用的angular，在你<code>ng build</code>之后生成的dist文件夹里面的东西，你也可以拷贝过来，效果一样。</p><p>和ROOT同级的目录也是可以随便放文件夹的，比如放一个blog文件夹，里面放你的源码，然后访问的时候，<br>在IP后面加<code>/blog</code>即可。</p><p>如果有什么问题，或者有什么说的不对，随时欢迎联系一起探讨~</p>]]></content>
     
     <summary type="html">
     
       &lt;blockquote&gt;
-&lt;p&gt;人生如寄，似水流年&lt;br&gt;如河驶流，往而不返&lt;br&gt;最惧无常，独遭斯疾&lt;/p&gt;
+&lt;p&gt;血染江山的画，怎敌你眉间一点朱砂&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="建站" scheme="http://yoursite.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建hexo+gitHub中出现的一些错误</title>
+    <link href="http://yoursite.com/2017/09/02/hexo-gitHub/"/>
+    <id>http://yoursite.com/2017/09/02/hexo-gitHub/</id>
+    <published>2017-09-02T09:59:40.000Z</published>
+    <updated>2017-09-19T03:06:59.734Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>守着善良，伴我成长，人生本不易，且行且珍惜</p></blockquote><a id="more"></a><p>偶然间看到一些大神的网站，很美很有个人特色，而且又是他们自己的。就在想，如果自己也有一个那该多好。。。于是，开始吧。</p><p><a href="http://opiece.me/2015/04/09/hexo-guide/" target="_blank" rel="external"> 下面简要说一下大致的步骤，不详细说了，详细的网上很多教程，随便搜一下就行，懒得搜那我随便推荐一个吧 </a></p><h3 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h3><p>首先你的电脑得有node,git,github账号<br>我的node版本是6.11.1<br>git版本是2.9.3<br><a href="http://nodejs.cn/" target="_blank" rel="external">node.js</a>和<a href="www.pc6.com/softview/SoftView_283878.html#download">Git Bash</a>,注意，git bash我给的不是官网，你最好自己去官网下载安装。</p><p><a href="http://github.cn/" target="_blank" rel="external">GitHub</a>的话,注册一下，注册之后需要新建仓库，也就是你保存代码的地方<img src="http://ovnev1k2d.bkt.clouddn.com/g2.gif" alt=""></p><p>剪完之后，单击进你的项目，比如我的<a href="https://github.com/hexiuhui/hexiuhui.github.io" target="_blank" rel="external">hexiuhui.github.io</a></p><p>（注意：这个组合是固定的，必须是你的github用户名+github.io）进去你自己的项目之后，看到Code Issues点击后面的Settings，然后往下滑，看到GitHub Pages，它的Source是None，选master branch,在随便选一个主题，保存之后，你就可以访问你的GitHub Pages了。在浏览器地址栏输入hexiuhui.github.io，换成你自己的试试。</p><p>然后github还需要做的就是<strong>添加SSH</strong>，为了让你在上传本地代码到github的时候不需要每次上传都输入密码。这个其实很方便的。打开Git Bash,输入下面代码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ssh-keygen -t rsa -C &quot;your_email@youremail.com&quot;</div></pre></td></tr></table></figure><p>安利一个很好的教程：<a href="http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html" target="_blank" rel="external">window下配置SSH连接GitHub、GitHub配置ssh key</a></p><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>创建一个文件，比如blog，进入blog，然后<strong>右键打开你的Git Bash</strong>,</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">npm install hexo-cli -g//这个就可以用hexo命令了</div><div class="line"></div><div class="line">npm install hexo-deployer-git --save//可以用hexo d(通过这条命令上传到github上)</div><div class="line"></div><div class="line">hexo init</div><div class="line"></div><div class="line">npm install//安装配置文件里面的包</div></pre></td></tr></table></figure><h3 id="接下来hexo常用的几个指令"><a href="#接下来hexo常用的几个指令" class="headerlink" title="接下来hexo常用的几个指令"></a>接下来hexo常用的几个指令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">hexo clean//1</div><div class="line"></div><div class="line">hexo g//2，hexo generate</div><div class="line"></div><div class="line">hexo s//3在本地localhost：4000查看你博客主页hexo server</div><div class="line"></div><div class="line">hexo d//3在youname.github.io上看到你博客主页，这个需要在你的blog文件夹里面修改配置文件，下面说。</div></pre></td></tr></table></figure><p>就是这个配置文件_config.yml(blog下面的)。要区分，因为还有一个_config.yml是将来配置主题的配置文件,名字一样，功能不一样，所以要区分。下面这几行代码需要在你的blog下的_config.yml末尾添加，把地址改成你自己的。注意：下面这个repository是有两种形式的，我加的是下面这种<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:  </div><div class="line">  type: git</div><div class="line">  repository: git@github.com:hexiuhui/hexiuhui.github.io.git</div><div class="line">  branch: master</div></pre></td></tr></table></figure></p><p>这个修改完，在加上之前的hexiuhui.github.io,在加上ssh就可以使用<code>hexo d</code>来更新远程博客了。</p><h3 id="写博客"><a href="#写博客" class="headerlink" title="写博客"></a>写博客</h3><p>写文章的话，是在这个路径blog\source_posts，在里面新建.md文件就可以了(可以手动新建txt文本在修改后缀名，也可以使用<code>hexo new &#39;name&#39;</code>)，这一个文件就是你的一篇文章。如你所见，你hexo s之后看到的hello World的页面就是这里相应的文件。md语法也很简单，很多博客的写作用的就是markdown语法，比如<a href="http://jianshu.com" target="_blank" rel="external">简书</a>，自己可以随便添加点什么，在hexo d，然后你可以访问一下你的博客了，比如我的<a href="https://hexiuhui.github.io/" target="_blank" rel="external">https://hexiuhui.github.io/</a></p><h3 id="配置文件，主题风格"><a href="#配置文件，主题风格" class="headerlink" title="配置文件，主题风格"></a>配置文件，主题风格</h3><p>接下来就是了解配置文件，修改成自己的风格的部分。</p><p>首先blog/_config.yml，看看注释基本上就了解啥意思了</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div></pre></td><td class="code"><pre><div class="line"># Hexo Configuration</div><div class="line">## Docs: http://hexo.io/docs/configuration.html</div><div class="line">## Source: https://github.com/hexojs/hexo/</div><div class="line"></div><div class="line"># Site这下面的几项配置都很简单，你看我的博客就知道分别是什么意思</div><div class="line">title: Chillax blog#博客名</div><div class="line">subtitle: Goals determine what you are going to be#副标题</div><div class="line">description: Goals determine what you are going to be #用于搜索，没有直观表现</div><div class="line">author: huangjunhui#作者</div><div class="line">language: zh-CN#语言</div><div class="line">timezone: #时区，此处不填写，hexo会以你目前电脑的时区为默认值</div><div class="line"></div><div class="line"># URL暂不配置，使用默认值</div><div class="line">## If your site is put in a subdirectory, set url as &apos;http://yoursite.com/child&apos; and root as &apos;/child/&apos;</div><div class="line">url: http://opiece.me  #域名</div><div class="line">root: /</div><div class="line">permalink: :year/:month/:day/:title/</div><div class="line">permalink_defaults:</div><div class="line"></div><div class="line"># Directory暂不配置，使用默认值</div><div class="line">source_dir: source</div><div class="line">public_dir: public</div><div class="line">tag_dir: tags</div><div class="line">archive_dir: archives</div><div class="line">category_dir: categories</div><div class="line">code_dir: downloads/code</div><div class="line">i18n_dir: :lang</div><div class="line">skip_render:</div><div class="line"></div><div class="line"># Writing文章布局等，使用默认值</div><div class="line">new_post_name: :title.md # File name of new posts</div><div class="line">default_layout: post</div><div class="line">titlecase: false # Transform title into titlecase</div><div class="line">external_link: true # Open external links in new tab</div><div class="line">filename_case: 0</div><div class="line">render_drafts: false</div><div class="line">post_asset_folder: false</div><div class="line">relative_link: false</div><div class="line">future: true</div><div class="line">highlight:</div><div class="line">  enable: true</div><div class="line">  line_number: true</div><div class="line">  tab_replace:</div><div class="line"></div><div class="line"># Category &amp; Tag暂不配置，使用默认值</div><div class="line">default_category: uncategorized</div><div class="line">category_map:</div><div class="line">tag_map:</div><div class="line"></div><div class="line"># Date / Time format时间格式，使用默认值</div><div class="line">## Hexo uses Moment.js to parse and display date</div><div class="line">## You can customize the date format as defined in</div><div class="line">## http://momentjs.com/docs/#/displaying/format/</div><div class="line">date_format: YYYY-MM-DD</div><div class="line">time_format: HH:mm:ss</div><div class="line"></div><div class="line"># Pagination</div><div class="line">## Set per_page to 0 to disable pagination</div><div class="line">per_page: 10#每页显示的文章数，0表示不分页</div><div class="line">pagination_dir: page</div><div class="line"></div><div class="line"># Extensions插件配置，暂时不配置</div><div class="line">## Plugins: http://hexo.io/plugins/</div><div class="line">## Themes: http://hexo.io/themes/</div><div class="line">plugins:</div><div class="line">- hexo-generator-feed</div><div class="line">theme: light#使用的主题，即：E:\myblog\themes文件夹下的主题文件夹名</div><div class="line"></div><div class="line">feed:#之后配置rss会用，使用如下配置即可</div><div class="line">  type: atom</div><div class="line">  path: atom.xml</div><div class="line">  limit: 20  </div><div class="line"></div><div class="line"># Deployment用于部署到github，之前已经配置过</div><div class="line">## Docs: http://hexo.io/docs/deployment.html</div><div class="line"></div><div class="line">deploy: </div><div class="line">  type: git</div><div class="line">  repository: git@github.com:hexiuhui/hexiuhui.github.io.git</div><div class="line">  branch: master</div></pre></td></tr></table></figure><h3 id="主题选择"><a href="#主题选择" class="headerlink" title="主题选择"></a>主题选择</h3><p>然后就是Dblog\themes\casual_config.yml，这个配置的是你选的主题，<br>会有不同。我选的主题是<a href="https://github.com/littlewin-wang/hexo-theme-casual" target="_blank" rel="external">casual</a>,<br><a href="https://hexo.io/themes/" target="_blank" rel="external">主题</a>在这里可以随便选，选到喜欢的，就可以看看那个主题在github的介绍，一般作者会告诉你怎么用。<br>我用的这个主题，主题作者他给主题加入了评论，所以我们直接用就行。我也是今天刚用一下，感觉还可以，还有一些地方没修改过来，等空闲的时候在修改了，对了手机端看也挺漂亮的。</p><h3 id="错误"><a href="#错误" class="headerlink" title="错误"></a>错误</h3><p>1.ssh的时候出现了<br><a href="http://jingyan.baidu.com/article/ca00d56c4861b0e99febcf6e.html" target="_blank" rel="external">ssh: connect to host github.com port 22: Connection timed out</a></p><p>2.hexo d的时候，一直报错，因为没仔细看，后来解决是因为没有执行git init</p><p>3.目前我用的是git@github.com的deploy，可是上传代码的时候还是要输入密码，这个应该是设置ssh的时候少了步骤，看这个<a href="http://jingyan.baidu.com/article/a65957f4e91ccf24e77f9b11.html" target="_blank" rel="external">教程</a>跟着在设置一遍就好</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;守着善良，伴我成长，人生本不易，且行且珍惜&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
